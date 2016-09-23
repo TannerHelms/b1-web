@@ -1,0 +1,65 @@
+body {
+
+	background-color: #006600;
+}
+h1 {
+	text-align: center;
+}
+h2 {
+
+	text-align: center;
+	color: #000000;
+}
+
+p {
+	text-align: center;
+}
+
+.header {
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+	text-align: center
+}
+
+.button {
+	width: 50px;
+	margin: auto;
+}
+
+.floatReset {
+	clear: both;
+}
+#banner {
+	width: 100%;
+	height: 100%;
+}
+
+#bannerPic {
+	float: right;
+	margin: 10px 20px 10px 10px;
+	padding: 5px;
+	box-shadow: 8px 8px 8px #DDDDDD;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: #DDDDDD;
+}
+#backgroundcolor {
+	background-color: #e6e6ff;
+	height: 1000px;
+	width: 2000px;
+}
+#lists {
+	margin: auto;
+	width: 530px;
+}
+
+#aboutMeButton {
+	margin: auto;
+	
+	background-color: #FFFFFF;
+	font-size: 1.5em
+	color: #FFFFFF;
+	text-decoration: bold;
+	border-radius: 12px;
+	box-shadow: 8px 8px 8px #DDDDDD;
+}
